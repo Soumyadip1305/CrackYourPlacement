@@ -1,12 +1,13 @@
 class Solution {
     public int uniquePaths(int m, int n) {
-       int[][] dp = new int[m][n];
-        dp[0][0] = 1;
+      int[]prev=new int[n];
+        int[]curr=new int[n];
         for (int r = 0; r < m; r++) {
             for (int c = 0; c < n; c++) {
-                dp[r][c] = (r == 0 || c == 0) ? 1 : dp[r - 1][c] + dp[r][c - 1];
+                curr[c] = (r == 0 || c == 0) ? 1 : prev[c] + curr[c - 1];
             }
+            prev=curr.clone();
         }
-        return dp[m - 1][n - 1];  
+        return curr[n - 1];
     }
 }
