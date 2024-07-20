@@ -7,10 +7,7 @@ class Solution {
             maxi=Math.max(maxi,mini*(high-low));
             if (height[low]<height[high]){
                 low++;
-            } else if (height[low]>height[high]) {
-                high--;
-            }else {
-                low++;
+            } else {
                 high--;
             }
         }
