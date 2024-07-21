@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0079-word-search) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
 ## Stack
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0079-word-search) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2411-spiral-matrix-iv](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
