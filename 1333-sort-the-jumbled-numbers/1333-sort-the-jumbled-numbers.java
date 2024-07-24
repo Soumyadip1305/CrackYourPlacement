@@ -9,22 +9,25 @@ class Solution {
         }
     }
     public int[] sortJumbled(int[] mapping, int[] nums) {
-        List<Pair> pairs = new ArrayList<>();
-        for (int num : nums) {
-            pairs.add(new Pair(num, calculateMap(mapping, num)));
+        // List<Pair> pairs = new ArrayList<>();
+        Integer[] indices = new Integer[nums.length];
+        for (int i = 0; i < nums.length; i++) {
+            indices[i] = i;
+            // pairs.add(new Pair(num, calculateMap(mapping, num)));
         }
 
-        pairs.sort(Comparator.comparingInt(p -> p.mapped));
+       // pairs.sort(Comparator.comparingInt(p -> p.mapped));
+        Arrays.sort(indices, Comparator.comparingInt(i -> calculateMap(mapping, nums[i])));
 
         int[] ans = new int[nums.length];
-        for (int i = 0; i < pairs.size(); i++) {
-            ans[i] = pairs.get(i).original;
+        for (int i = 0; i < indices.length; i++) {
+            ans[i] = nums[indices[i]];
         }
 
         return ans;
     }
 
-    private int calculateMap(int[] mapping, int num) {
+    private static int calculateMap(int[] mapping, int num) {
         if (num == 0) {
             return mapping[0];
         }
