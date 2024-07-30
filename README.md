@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0079-word-search) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1511-count-number-of-teams](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Combinatorics
 |  |
 | ------- |
