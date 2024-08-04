@@ -1,17 +1,20 @@
 class Solution {
     public boolean isValid(String s) {
-           Stack<Character> stack = new Stack<>();
+        StringBuilder sb = new StringBuilder();
     for (char c : s.toCharArray()) {
-        if (c == ')') {
-            if (stack.isEmpty() || stack.pop() != '(') return false;
-        } else if (c == '}') {
-            if (stack.isEmpty() || stack.pop() != '{') return false;
-        } else if (c == ']') {
-            if (stack.isEmpty() || stack.pop() != '[') return false;
+        if (c == '(' || c == '{' || c == '[') {
+            sb.append(c);
         } else {
-            stack.push(c);
+            if (sb.length() == 0) return false;
+            char last = sb.charAt(sb.length() - 1);
+            if ((c == ')' && last != '(') || 
+                (c == '}' && last != '{') || 
+                (c == ']' && last != '[')) {
+                return false;
+            }
+            sb.deleteCharAt(sb.length() - 1);
         }
     }
-    return stack.isEmpty();
+    return sb.length() == 0;
     }
 }
