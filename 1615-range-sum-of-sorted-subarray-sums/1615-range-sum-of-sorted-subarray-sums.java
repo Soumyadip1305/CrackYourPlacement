@@ -10,6 +10,7 @@ class Solution {
             }
         }
         Collections.sort(sums);
+        // System.out.println(sums);
         long ans = 0;
         for (int i = left - 1; i < right; i++) {
             ans = (ans + sums.get(i)) % MOD;
