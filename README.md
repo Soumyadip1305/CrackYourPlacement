@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
 ## String
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0079-word-search) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
