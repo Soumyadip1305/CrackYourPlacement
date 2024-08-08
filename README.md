@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0921-spiral-matrix-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Simulation
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
