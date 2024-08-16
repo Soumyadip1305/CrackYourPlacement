@@ -1,8 +1,8 @@
 class Solution {
     public int maxDistance(List<List<Integer>> arrays) {
-        int currMin = arrays.get(0).get(0);
+       int currMin = arrays.get(0).get(0);
         int currMax = arrays.get(0).get(arrays.get(0).size() - 1);
-        int ans = Integer.MIN_VALUE;
+        int ans = 0;
 
         for (int i = 1; i < arrays.size(); i++) {
             int min = arrays.get(i).get(0);
