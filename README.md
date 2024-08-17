@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-constrained-subsequence-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1286-constrained-subsequence-sum) |
 | [1511-count-number-of-teams](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Combinatorics
 |  |
 | ------- |
