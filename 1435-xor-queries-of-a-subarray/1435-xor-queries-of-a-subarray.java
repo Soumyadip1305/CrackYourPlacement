@@ -1,9 +1,8 @@
 class Solution {
     public int[] xorQueries(int[] arr, int[][] queries) {
-         int n = arr.length;
          int m=queries.length;
          int[]ans=new int[m];
-        if (n == 1) {
+        if (arr.length == 1) {
             for (int i = 0; i < m; i++) {
                 ans[i] = arr[0];
             }
