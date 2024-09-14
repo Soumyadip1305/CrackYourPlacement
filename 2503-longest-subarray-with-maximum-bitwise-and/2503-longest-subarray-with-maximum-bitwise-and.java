@@ -1,13 +1,16 @@
 class Solution {
     public int longestSubarray(int[] nums) {
-        int maxi = Arrays.stream(nums).max().getAsInt();
-        int maxLen = 0, currLen = 0;
-        for (int it : nums) {
-            if (it == maxi) {
-                currLen++;
-                maxLen = Math.max(maxLen, currLen);
+        int maxi = Integer.MIN_VALUE, maxLen = 0, curLen = 0;
+
+        for (int num : nums) {
+            if (num > maxi) {
+                maxi = num;
+                maxLen = curLen = 1;
+            } else if (num == maxi) {
+                curLen++;
+                maxLen = Math.max(maxLen, curLen);
             } else {
-                currLen = 0;
+                curLen = 0;
             }
         }
 
