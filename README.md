@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1873-longest-nice-substring](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1873-longest-nice-substring) |
+| [1880-largest-merge-of-two-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1880-largest-merge-of-two-strings) |
 | [2011-maximum-value-after-insertion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2011-maximum-value-after-insertion) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1880-largest-merge-of-two-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1880-largest-merge-of-two-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1880-largest-merge-of-two-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1880-largest-merge-of-two-strings) |
 | [2011-maximum-value-after-insertion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2011-maximum-value-after-insertion) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
