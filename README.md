@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1873-longest-nice-substring](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1873-longest-nice-substring) |
+| [2011-maximum-value-after-insertion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2011-maximum-value-after-insertion) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2011-maximum-value-after-insertion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2011-maximum-value-after-insertion) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
