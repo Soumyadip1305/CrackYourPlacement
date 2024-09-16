@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0079-word-search) |
 | [0273-integer-to-english-words](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0539-minimum-time-difference](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0948-sort-an-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
