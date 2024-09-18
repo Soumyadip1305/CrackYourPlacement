@@ -11,25 +11,21 @@
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
         Set<Integer> set = new HashSet<>();
-        for (int num : nums) {
-            set.add(num);
-        }
-
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-
-        return calculateList(head, dummy,dummy,set);
-    }
-    static ListNode calculateList(ListNode curr,ListNode prev,ListNode dummy,Set<Integer>set){
-        while (curr != null) {
-            if (set.contains(curr.val)) {
-                prev.next = curr.next;
-            } else {
-                prev = curr;
+            for (int num : nums) {
+                set.add(num);
             }
-            curr = curr.next;
-        }
 
-        return dummy.next;
+            ListNode dummy = new ListNode();
+            ListNode cur = dummy;
+
+            while (head != null) {
+                if (!set.contains(head.val)) {
+                    cur.next = new ListNode(head.val);
+                    cur = cur.next;
+                }
+                head = head.next;
+            }
+
+            return dummy.next;
     }
 }
