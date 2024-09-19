@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2411-spiral-matrix-iv](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
