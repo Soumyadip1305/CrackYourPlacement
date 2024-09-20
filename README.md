@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2504-find-all-good-indices](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2504-find-all-good-indices) |
 | [2727-number-of-senior-citizens](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2504-find-all-good-indices](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2504-find-all-good-indices) |
 ## Combinatorics
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2504-find-all-good-indices](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2504-find-all-good-indices) |
 ## Graph
 |  |
 | ------- |
