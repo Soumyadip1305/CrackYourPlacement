@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
+| [0842-card-flipping-game](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0842-card-flipping-game) |
 | [0870-magic-squares-in-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
+| [0842-card-flipping-game](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0842-card-flipping-game) |
 | [0870-magic-squares-in-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
