@@ -1,12 +1,13 @@
 public class Node {
     Node[] links = new Node[26];
     boolean flag = false;
+    int linkCount = 0; // Track the number of links
 
     public Node() {
     }
 
     boolean containsKey(char ch) {
-        return links[ch - 'a'] != null;  // ch - 'a' = index of the character
+        return links[ch - 'a'] != null;
     }
 
     Node get(char ch) {
@@ -15,6 +16,7 @@ public class Node {
 
     void put(char ch, Node node) {
         links[ch - 'a'] = node;
+        linkCount++; // Increment the link count when a new link is added
     }
 
     void setEnd() {
@@ -24,14 +26,9 @@ public class Node {
     boolean isEnd() {
         return flag;
     }
+
     int getLinksCount() {
-        int count = 0;
-        for (Node link : links) {
-            if (link != null) {
-                count++;
-            }
-        }
-        return count;
+        return linkCount; // Return the pre-tracked link count
     }
 }
 
@@ -42,23 +39,20 @@ class Trie {
         root = new Node();
     }
 
-    void insert(String word) { // tc -> O(len)
+    void insert(String word) { // O(len)
         Node node = root;
-        for (int i = 0; i < word.length(); i++) {
-            char curr = word.charAt(i);
+        for (char curr : word.toCharArray()) {
             if (!node.containsKey(curr)) {
-                node.put(curr, new Node());  // create new Trie
+                node.put(curr, new Node());  // Create new Trie node
             }
             node = node.get(curr); // Move to the reference node
         }
         node.setEnd();
     }
 
-    // return word if it's present in the Trie
-    boolean search(String word) {  // tc -> O(len)
+    boolean search(String word) { // O(len)
         Node node = root;
-        for (int i = 0; i < word.length(); i++) {
-            char curr = word.charAt(i);
+        for (char curr : word.toCharArray()) {
             if (!node.containsKey(curr)) {
                 return false;
             }
@@ -67,11 +61,9 @@ class Trie {
         return node.isEnd();
     }
 
-    // Return if there is any word in the Trie that starts with the given prefix
-    boolean startsWith(String pref) {  // tc -> O(len)
+    boolean startsWith(String pref) { // O(len)
         Node node = root;
-        for (int i = 0; i < pref.length(); i++) {
-            char curr = pref.charAt(i);
+        for (char curr : pref.toCharArray()) {
             if (!node.containsKey(curr)) {
                 return false;
             }
@@ -79,18 +71,21 @@ class Trie {
         }
         return true;
     }
+
     String longestCommonPrefix() {
         Node node = root;
         StringBuilder prefix = new StringBuilder();
+        
         while (node.getLinksCount() == 1 && !node.isEnd()) {
             for (int i = 0; i < 26; i++) {
                 if (node.links[i] != null) {
                     prefix.append((char) ('a' + i)); // Append the character
                     node = node.links[i]; // Move to the next node
-                    break;
+                    break; // Move out of the loop once the link is found
                 }
             }
         }
+        
         return prefix.toString();
     }
 }
