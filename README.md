@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
+| [0677-map-sum-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
 | [0842-card-flipping-game](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0842-card-flipping-game) |
 | [0870-magic-squares-in-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
+| [0677-map-sum-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0677-map-sum-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0677-map-sum-pairs) |
 | [0885-exam-room](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0885-exam-room) |
 | [1582-design-browser-history](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1582-design-browser-history) |
 | [2778-frequency-tracker](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2778-frequency-tracker) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
+| [0677-map-sum-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0677-map-sum-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
