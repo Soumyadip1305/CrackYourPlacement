@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0179-largest-number) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0885-exam-room](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0885-exam-room) |
 | [1582-design-browser-history](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1582-design-browser-history) |
 | [2778-frequency-tracker](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2778-frequency-tracker) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
