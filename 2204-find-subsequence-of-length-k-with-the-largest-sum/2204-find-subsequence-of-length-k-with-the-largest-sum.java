@@ -18,12 +18,12 @@ class Solution {
             }
         }
 
-        List<Pair> res = new ArrayList<>(pq);
-        res.sort(Comparator.comparingInt(p -> p.ind));
+        Pair[] resultPairs = pq.toArray(new Pair[0]);
+        Arrays.sort(resultPairs, Comparator.comparingInt(p -> p.ind));
 
         int[] ans = new int[k];
         for (int i = 0; i < k; i++) {
-            ans[i] = res.get(i).val;
+            ans[i] = resultPairs[i].val;
         }
 
         return ans;
