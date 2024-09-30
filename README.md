@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0859-design-circular-deque](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0859-design-circular-deque) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1072-next-greater-node-in-linked-list) |
