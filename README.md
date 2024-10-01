@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0933-increasing-order-search-tree) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1072-next-greater-node-in-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0933-increasing-order-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1035-cousins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1275-validate-binary-tree-nodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1275-validate-binary-tree-nodes) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0933-increasing-order-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0933-increasing-order-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1035-cousins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1275-validate-binary-tree-nodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1275-validate-binary-tree-nodes) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0933-increasing-order-search-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1035-cousins-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1035-cousins-in-binary-tree) |
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0933-increasing-order-search-tree) |
 ## Queue
 |  |
 | ------- |
