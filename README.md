@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 ## Greedy
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 ## Union Find
@@ -604,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1072-next-greater-node-in-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
