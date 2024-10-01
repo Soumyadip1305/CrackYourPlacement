@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0179-largest-number) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
