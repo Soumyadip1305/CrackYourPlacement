@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-largest-merge-of-two-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-largest-merge-of-two-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1880-largest-merge-of-two-strings) |
 | [2011-maximum-value-after-insertion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2011-maximum-value-after-insertion) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2504-find-all-good-indices](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2504-find-all-good-indices) |
 ## Graph
 |  |
@@ -494,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-constrained-subsequence-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1286-constrained-subsequence-sum) |
 | [1325-path-with-maximum-probability](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
 | ------- |
