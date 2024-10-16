@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0974-reorder-data-in-log-files) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1140-distant-barcodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1140-distant-barcodes) |
+| [1304-longest-happy-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1880-largest-merge-of-two-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1880-largest-merge-of-two-strings) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1140-distant-barcodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1140-distant-barcodes) |
 | [1286-constrained-subsequence-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1286-constrained-subsequence-sum) |
+| [1304-longest-happy-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
