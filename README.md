@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1684-find-latest-group-of-size-m](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1684-find-latest-group-of-size-m) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1286-constrained-subsequence-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1286-constrained-subsequence-sum) |
 | [1511-count-number-of-teams](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2504-find-all-good-indices](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2504-find-all-good-indices) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1880-largest-merge-of-two-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1880-largest-merge-of-two-strings) |
 | [2011-maximum-value-after-insertion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2011-maximum-value-after-insertion) |
