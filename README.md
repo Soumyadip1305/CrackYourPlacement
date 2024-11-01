@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0974-reorder-data-in-log-files) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1430-find-the-k-beauty-of-a-number) |
