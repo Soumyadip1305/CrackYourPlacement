@@ -9,7 +9,7 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             String curr= words[i].charAt(1)+""+words[i].charAt(0);
-            System.out.println(curr);
+           // System.out.println(curr);
             if (map.containsKey(curr)&&map.get(curr)>i){
                 cnt++;
             }
