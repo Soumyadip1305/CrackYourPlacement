@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0611-valid-triangle-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1880-largest-merge-of-two-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
@@ -751,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0638-shopping-offers) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
