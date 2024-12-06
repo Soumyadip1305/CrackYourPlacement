@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2778-frequency-tracker](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2778-frequency-tracker) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2663-distribute-money-to-maximum-children) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2716-prime-subtraction-operation](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
