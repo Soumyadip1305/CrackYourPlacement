@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0933-increasing-order-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1035-cousins-in-binary-tree) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0933-increasing-order-search-tree) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0999-regions-cut-by-slashes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1035-cousins-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1035-cousins-in-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1275-validate-binary-tree-nodes) |
