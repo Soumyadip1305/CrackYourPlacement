@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2413-smallest-number-in-infinite-set) |
 | [2448-count-number-of-bad-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2413-smallest-number-in-infinite-set) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-exam-room](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0885-exam-room) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1582-design-browser-history) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2413-smallest-number-in-infinite-set) |
 | [2778-frequency-tracker](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2778-frequency-tracker) |
 ## Brainteaser
 |  |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0885-exam-room](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0885-exam-room) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2413-smallest-number-in-infinite-set) |
 ## Randomized
 |  |
 | ------- |
