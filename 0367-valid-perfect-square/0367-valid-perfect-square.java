@@ -1,10 +1,10 @@
 class Solution {
     public boolean isPerfectSquare(int x) {
-        int curr=x;
+        long curr=x;
 
-        while((long)curr*curr>x){
+        while(curr*curr>x){
             curr=(curr+x/curr)/2;
         }
-        return (long)curr*curr==x;
+        return curr*curr==x;
     }
 }
