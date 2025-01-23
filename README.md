@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1275-validate-binary-tree-nodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1275-validate-binary-tree-nodes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1140-distant-barcodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1140-distant-barcodes) |
+| [1396-count-servers-that-communicate](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
@@ -738,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1035-cousins-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1035-cousins-in-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1275-validate-binary-tree-nodes) |
+| [1396-count-servers-that-communicate](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -759,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1275-validate-binary-tree-nodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1275-validate-binary-tree-nodes) |
+| [1396-count-servers-that-communicate](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
