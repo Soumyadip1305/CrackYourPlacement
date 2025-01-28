@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Math
 |  |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Greedy
 |  |
@@ -772,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1275-validate-binary-tree-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Strongly Connected Component
 |  |
 | ------- |
