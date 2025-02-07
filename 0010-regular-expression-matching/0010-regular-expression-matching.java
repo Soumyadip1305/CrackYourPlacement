@@ -1,33 +1,25 @@
 class Solution {
     public boolean isMatch(String s, String p) {
-        int m = s.length();
-        int n = p.length();
-        boolean[][] dp = new boolean[m + 1][n + 1];
-        dp[0][0] = true;
+        return dp(0, 0, s, p, new HashMap<>());
+    }
 
-        for (int j = 1; j <= n; j++) {
-            if (p.charAt(j - 1) == '*') {
-                dp[0][j] = dp[0][j - 2];
-            }
+    private boolean dp(int i, int j, String s, String p, Map<String, Boolean> memo) {
+        String key = i + "," + j;
+        if (memo.containsKey(key)) return memo.get(key);
+
+        if (j == p.length()) return i == s.length();
+
+        boolean firstMatch = (i < s.length() && 
+                              (s.charAt(i) == p.charAt(j) || p.charAt(j) == '.'));
+
+        boolean ans;
+        if (j + 1 < p.length() && p.charAt(j + 1) == '*') {
+            ans = dp(i, j + 2, s, p, memo) || (firstMatch && dp(i + 1, j, s, p, memo));
+        } else {
+            ans = firstMatch && dp(i + 1, j + 1, s, p, memo);
         }
 
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                char currentPatternChar = p.charAt(j - 1);
-
-                if (currentPatternChar == '.' || currentPatternChar == s.charAt(i - 1)) {
-                    dp[i][j] = dp[i - 1][j - 1];
-                } else if (currentPatternChar == '*') {
-                    char precedingPatternChar = p.charAt(j - 2);
-                    dp[i][j] = dp[i][j - 2];
-
-                    if (precedingPatternChar == '.' || precedingPatternChar == s.charAt(i - 1)) {
-                        dp[i][j] = dp[i][j] || dp[i - 1][j];
-                    }
-                }
-            }
-        }
-
-        return dp[m][n];
+        memo.put(key, ans);
+        return ans;
     }
 }
