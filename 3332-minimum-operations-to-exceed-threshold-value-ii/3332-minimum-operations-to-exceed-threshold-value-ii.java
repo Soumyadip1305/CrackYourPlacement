@@ -15,7 +15,9 @@ class Solution {
         while (pq.size() >= 2 && pq.peek() < k) {
             long x = pq.poll();
             long y = pq.poll();
-            pq.add(Math.min(x, y) * 2L + Math.max(x, y));
+            // first is always smaller than second so
+           // pq.add(Math.min(x, y) * 2L + Math.max(x, y));
+            pq.add(x * 2L + y);
             cnt++;
         }
         return cnt;        
