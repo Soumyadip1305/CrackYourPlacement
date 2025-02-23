@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0842-card-flipping-game](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0842-card-flipping-game) |
 | [0870-magic-squares-in-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [0974-reorder-data-in-log-files](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0974-reorder-data-in-log-files) |
 | [0999-regions-cut-by-slashes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1035-cousins-in-binary-tree) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1035-cousins-in-binary-tree) |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1873-longest-nice-substring](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1873-longest-nice-substring) |
 ## Counting
