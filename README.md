@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0189-rotate-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0611-valid-triangle-number) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
