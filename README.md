@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0974-reorder-data-in-log-files) |
 | [1160-letter-tile-possibilities](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1170-shortest-common-supersequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1304-longest-happy-string) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1063-best-sightseeing-pair) |
 | [1130-last-stone-weight-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1130-last-stone-weight-ii) |
+| [1170-shortest-common-supersequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1286-constrained-subsequence-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1286-constrained-subsequence-sum) |
