@@ -1,20 +1,16 @@
 class Solution {
     public int[] applyOperations(int[] nums) {
-        for (int i = 1; i < nums.length; i++) {
-            if (nums[i - 1] == nums[i]) {
-                nums[i - 1] *= 2;
-                nums[i] = 0;
+        int ind=0;
+        for (int i = 0; i < nums.length; i++) {
+            if (i < nums.length - 1 &&nums[i] == nums[i+1]) {
+                nums[i] *= 2;
+                nums[i+1] = 0;
+            }
+            if (nums[i] != 0) {
+                nums[ind++] = nums[i];
             }
         }
-        int ind = 0;
-        for (int it : nums) {
-            if (it != 0) {
-                nums[ind++] = it;
-            }
-        }
-        while (ind < nums.length) {
-            nums[ind++] = 0;
-        }
+        Arrays.fill(nums,ind,nums.length,0);
         return nums;
     }
 }
