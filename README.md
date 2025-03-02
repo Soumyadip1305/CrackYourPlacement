@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1642-water-bottles) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2663-distribute-money-to-maximum-children) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [2011-maximum-value-after-insertion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2011-maximum-value-after-insertion) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
