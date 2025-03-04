@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0384-shuffle-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0384-shuffle-an-array) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0326-power-of-three) |
 ## Breadth-First Search
 |  |
 | ------- |
