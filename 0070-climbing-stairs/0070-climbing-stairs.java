@@ -1,8 +1,12 @@
 class Solution {
     public int climbStairs(int n) {
-        int[]dp=new int[n+1];
-        Arrays.fill(dp,-1);
-        return solve(0,n,dp);
+        int[]dp=new int[n+2];
+        dp[0]=1;
+        dp[1]=1;
+        for(int ind=2;ind<=n;ind++){
+            dp[ind]=dp[ind-1]+dp[ind-2];
+        }
+        return dp[n];
     }
     static int solve(int ind,int n,int[]dp){
         if(ind>n){
