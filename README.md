@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
+| [1585-the-kth-factor-of-n](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1585-the-kth-factor-of-n) |
 | [2716-prime-subtraction-operation](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
