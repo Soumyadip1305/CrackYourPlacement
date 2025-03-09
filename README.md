@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3483-alternating-groups-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3644-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
