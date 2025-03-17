@@ -1,14 +1,17 @@
 class Solution {
     public boolean divideArray(int[] nums) {
-        Map<Integer,Integer>map=new HashMap<>();
-        for (int it:nums){
-            map.put(it,map.getOrDefault(it,0)+1);
+        int[] arr = new int[501];
+
+        for(int i = 0; i<nums.length; i++){
+            arr[nums[i]]++;
         }
-        for (int it:map.values()){
-            if (it%2!=0){
+
+        for(int i = 0; i<501; i++){
+            if(arr[i] % 2 != 0){
                 return false;
             }
         }
+
         return true;
     }
 }
