@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0319-bulb-switcher](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0319-bulb-switcher) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Ordered Set
