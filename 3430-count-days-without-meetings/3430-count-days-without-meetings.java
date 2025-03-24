@@ -1,12 +1,12 @@
 class Solution {
-    public int countDays(int totalDays, int[][] meetings) {
+    public int countDays(int days, int[][] meetings) {
         Arrays.sort(meetings, (a, b) -> Integer.compare(a[0], b[0]));
 
         ArrayList<int[]> mergedIntervals = new ArrayList<>();
 
         mergeMeetings(meetings, mergedIntervals);
 
-        return calculateFreeDays(totalDays, mergedIntervals);
+        return calculateFreeDays(days, mergedIntervals);
     }
 
     private static void mergeMeetings(int[][] meetings, ArrayList<int[]> mergedIntervals) {
