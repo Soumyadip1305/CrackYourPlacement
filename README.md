@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2413-smallest-number-in-infinite-set) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -908,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -925,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1275-validate-binary-tree-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2035-count-sub-islands) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Strongly Connected Component
