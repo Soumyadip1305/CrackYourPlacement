@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2050-count-good-numbers) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0326-power-of-three) |
+| [2050-count-good-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2050-count-good-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
