@@ -1,6 +1,6 @@
 class Solution {
     public long countFairPairs(int[] nums, int lower, int upper) {
-        long cnt=0;
+       long cnt=0;
         Arrays.sort(nums);
         for (int i = 0; i < nums.length; i++) {
             int lowIndex = lb(nums, i + 1, lower - nums[i]);
@@ -33,6 +33,6 @@ class Solution {
                 high = mid;
             }
         }
-        return low;
+        return low; 
     }
 }
