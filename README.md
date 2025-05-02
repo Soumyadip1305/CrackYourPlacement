@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0868-push-dominoes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0974-reorder-data-in-log-files) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0868-push-dominoes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
+| [0868-push-dominoes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1063-best-sightseeing-pair) |
