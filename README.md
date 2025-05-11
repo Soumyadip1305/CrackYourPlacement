@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1286-constrained-subsequence-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1286-constrained-subsequence-sum) |
+| [1293-three-consecutive-odds](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
