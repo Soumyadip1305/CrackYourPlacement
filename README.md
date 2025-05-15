@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3291-find-if-array-can-be-sorted) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2586-longest-square-streak-in-an-array) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Combinatorics
 |  |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2663-distribute-money-to-maximum-children](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2663-distribute-money-to-maximum-children) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2716-prime-subtraction-operation](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
