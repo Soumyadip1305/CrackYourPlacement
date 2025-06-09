@@ -1073,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0677-map-sum-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0677-map-sum-pairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
