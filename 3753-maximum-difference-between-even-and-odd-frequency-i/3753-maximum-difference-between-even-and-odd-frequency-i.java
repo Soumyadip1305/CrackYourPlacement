@@ -5,8 +5,7 @@ class Solution {
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
         int maxOdd=Integer.MIN_VALUE;
-        int maxEven=Integer.MIN_VALUE;
-        int minOdd=Integer.MAX_VALUE;int minEven=Integer.MAX_VALUE;
+        int minEven=Integer.MAX_VALUE;
         for(int it:map.values()){
             if(it%2==0){
                minEven=Math.min(minEven,it);
