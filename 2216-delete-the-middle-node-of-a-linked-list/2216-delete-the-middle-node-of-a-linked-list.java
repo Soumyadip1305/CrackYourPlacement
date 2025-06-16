@@ -16,7 +16,7 @@ class Solution {
         ListNode fast = head;
         ListNode prev = null;
 
-        // Find middle node with fast and slow pointers
+       
         while (fast != null && fast.next != null) {
             fast = fast.next.next;
             prev = slow;
