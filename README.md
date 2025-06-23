@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
+| [0897-prime-palindrome](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0897-prime-palindrome) |
 | [1240-stone-game-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -1037,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0897-prime-palindrome](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0897-prime-palindrome) |
 | [1585-the-kth-factor-of-n](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
