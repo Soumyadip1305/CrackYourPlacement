@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2551-apply-operations-to-an-array) |
