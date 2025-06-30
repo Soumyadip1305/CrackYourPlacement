@@ -7,9 +7,6 @@ class Solution {
         for(int it:nums){
 
             if(map.containsKey(it)){
-                if(map.containsKey(it-1)){
-                    maxi=Math.max(maxi,map.get(it-1)+map.get(it));
-                }
                 if(map.containsKey(it+1)){
                     maxi=Math.max(maxi,map.get(it+1)+map.get(it));
                 }
