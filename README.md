@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3644-minimum-positive-sum-subarray) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3903-inverse-coin-change](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3903-inverse-coin-change) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
@@ -1165,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Bitmask
 |  |
 | ------- |
