@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3903-inverse-coin-change](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3903-inverse-coin-change) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
 | ------- |
