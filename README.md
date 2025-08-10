@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [0842-card-flipping-game](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0842-card-flipping-game) |
 | [0870-magic-squares-in-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0900-reordered-power-of-2](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [0974-reorder-data-in-log-files](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0974-reorder-data-in-log-files) |
 | [1140-distant-barcodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1140-distant-barcodes) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0897-prime-palindrome](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0897-prime-palindrome) |
+| [0900-reordered-power-of-2](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0900-reordered-power-of-2) |
 | [1240-stone-game-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0900-reordered-power-of-2](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1140-distant-barcodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
@@ -1197,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0900-reordered-power-of-2) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
