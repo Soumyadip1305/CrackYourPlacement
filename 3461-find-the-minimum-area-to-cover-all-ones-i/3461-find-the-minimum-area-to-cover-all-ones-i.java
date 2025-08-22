@@ -1,5 +1,5 @@
 class Solution {
-    public int minimumArea(int[][] grid) {
+     private int[] findMinMaxCoordinates(int[][] grid) {
         int minR = Integer.MAX_VALUE, maxR = Integer.MIN_VALUE;
         int minC = Integer.MAX_VALUE, maxC = Integer.MIN_VALUE;
 
