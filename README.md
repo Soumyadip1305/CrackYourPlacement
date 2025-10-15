@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3644-minimum-positive-sum-subarray) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3427-special-array-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3427-special-array-ii) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
