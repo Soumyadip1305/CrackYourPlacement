@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2792-neighboring-bitwise-xor](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2792-neighboring-bitwise-xor) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3291-find-if-array-can-be-sorted) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3903-inverse-coin-change](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3903-inverse-coin-change) |
@@ -1238,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0638-shopping-offers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## String Matching
 |  |
 | ------- |
