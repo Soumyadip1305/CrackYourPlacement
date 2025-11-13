@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3447-clear-digits) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3914-check-if-any-element-has-prime-frequency) |
