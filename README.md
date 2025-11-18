@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
 | [0638-shopping-offers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0729-my-calendar-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0797-rabbits-in-forest](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
 | [0842-card-flipping-game](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0842-card-flipping-game) |
