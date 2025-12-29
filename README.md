@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0677-map-sum-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
+| [0756-pyramid-transition-matrix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0797-rabbits-in-forest) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0677-map-sum-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
+| [0756-pyramid-transition-matrix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0476-number-complement) |
 | [0638-shopping-offers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0638-shopping-offers) |
+| [0756-pyramid-transition-matrix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0756-pyramid-transition-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0638-shopping-offers) |
+| [0756-pyramid-transition-matrix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
