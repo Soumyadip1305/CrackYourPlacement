@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1923-sentence-similarity-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -965,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1642-water-bottles) |
 | [1684-find-latest-group-of-size-m](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1684-find-latest-group-of-size-m) |
+| [1929-concatenation-of-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1929-concatenation-of-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2211-count-collisions-on-a-road) |
