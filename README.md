@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
