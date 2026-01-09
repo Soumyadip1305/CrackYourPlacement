@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0118-pascals-triangle) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0476-number-complement) |
 | [0638-shopping-offers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0638-shopping-offers) |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0494-target-sum) |
