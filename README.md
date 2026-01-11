@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0016-3sum-closest) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
@@ -1037,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
