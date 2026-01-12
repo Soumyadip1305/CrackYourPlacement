@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1266-minimum-time-visiting-all-points) |
 | [1286-constrained-subsequence-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1286-constrained-subsequence-sum) |
 | [1293-three-consecutive-odds](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0900-reordered-power-of-2) |
 | [1240-stone-game-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1240-stone-game-ii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1266-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -1335,4 +1337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0595-big-countries) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
