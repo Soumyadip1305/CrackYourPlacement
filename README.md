@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
+| [3453-separate-squares-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3427-special-array-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3427-special-array-ii) |
+| [3453-separate-squares-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
