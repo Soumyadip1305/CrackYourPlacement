@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1140-distant-barcodes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1240-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1266-minimum-time-visiting-all-points) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0900-reordered-power-of-2) |
 | [1240-stone-game-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1240-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1266-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -918,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1240-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1248-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
@@ -967,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1248-count-number-of-nice-subarrays) |
 | [1286-constrained-subsequence-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1286-constrained-subsequence-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
