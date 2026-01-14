@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3427-special-array-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3427-special-array-ii) |
 | [3453-separate-squares-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -1299,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0729-my-calendar-i) |
+| [3454-separate-squares-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Stack
 |  |
@@ -1351,4 +1354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1266-minimum-time-visiting-all-points) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
