@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [0974-reorder-data-in-log-files](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0974-reorder-data-in-log-files) |
 | [0999-regions-cut-by-slashes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [1004-max-consecutive-ones-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1063-best-sightseeing-pair) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1004-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1248-count-number-of-nice-subarrays) |
@@ -974,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
+| [1004-max-consecutive-ones-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1248-count-number-of-nice-subarrays) |
 | [1286-constrained-subsequence-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1286-constrained-subsequence-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1430-find-the-k-beauty-of-a-number) |
