@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
 | [2011-maximum-value-after-insertion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2011-maximum-value-after-insertion) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2504-find-all-good-indices](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2504-find-all-good-indices) |
@@ -992,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1873-longest-nice-substring](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1873-longest-nice-substring) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
