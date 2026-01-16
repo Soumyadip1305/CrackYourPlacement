@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2035-count-sub-islands](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2054-two-best-non-overlapping-events](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2054-two-best-non-overlapping-events) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1012,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1873-longest-nice-substring](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1873-longest-nice-substring) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
