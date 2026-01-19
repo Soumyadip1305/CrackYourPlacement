@@ -29,7 +29,7 @@ class Solution {
         return ans;
     }
 
-    private static boolean isSquare(int[][] pref, int k, int target) {
+     private static boolean isSquare(int[][] pref, int k, int thresh) {
         for (int i = k; i < pref.length; i++) {
             for (int j = k; j < pref[0].length; j++) {
 
@@ -38,7 +38,7 @@ class Solution {
                         - pref[i][j - k]
                         + pref[i - k][j - k];
 
-                if (sum <= target)
+                if (sum <= thresh)
                     return true;
             }
         }
