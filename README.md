@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2092-find-all-people-with-secret) |
 | [2164-two-best-non-overlapping-events](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1876-map-of-highest-peak) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1895-largest-magic-square) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1880-largest-merge-of-two-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -925,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1880-largest-merge-of-two-strings) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [2011-maximum-value-after-insertion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2011-maximum-value-after-insertion) |
