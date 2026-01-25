@@ -9,9 +9,8 @@ class Solution {
         //                         -> 1 4 7, 4 7 9 k=3   min(6,5)=5
 
         for(int i=k-1;i<n;i++){
-            int x=nums[i]-nums[i-k+1];
-            if(x==0)return 0;
-            mini=Math.min(x,mini);
+            mini=Math.min(nums[i]-nums[i-k+1],mini);
+
         }
         return mini;
     }
