@@ -10,7 +10,8 @@ class Solution {
 
         for(int i=k-1;i<n;i++){
             int x=nums[i]-nums[i-k+1];
-            mini=Math.min(x,mini);
+            if(x==0)return 0;
+            mini=Math.min(nums[i]-nums[i-k+1],mini);
         }
         return mini;
     }
