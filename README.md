@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3637-trionic-array-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3644-minimum-positive-sum-subarray) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
