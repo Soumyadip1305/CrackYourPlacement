@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3827-count-monobit-integers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3827-count-monobit-integers) |
 ## Tree
 |  |
 | ------- |
@@ -1412,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3827-count-monobit-integers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3827-count-monobit-integers) |
 ## Bitmask
 |  |
 | ------- |
