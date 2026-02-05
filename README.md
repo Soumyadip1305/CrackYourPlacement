@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3379-transformed-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3429-special-array-i) |
@@ -1086,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3379-transformed-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3447-clear-digits) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3600-find-the-k-th-character-in-string-game-i) |
