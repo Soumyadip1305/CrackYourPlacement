@@ -8,7 +8,7 @@ class Solution {
         int n=nums.length,i=0;
         int mini=n;
         for (int j = 0; j < nums.length; j++) {
-            while ((long) nums[j]>(long)nums[i]*k){
+            while (nums[j]>(long)nums[i]*k){
                 i++;
             }
            // System.out.println(n-j+i-1);
