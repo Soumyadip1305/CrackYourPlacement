@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3713-longest-balanced-substring-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3447-clear-digits) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3617-find-the-original-typed-string-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -1177,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3713-longest-balanced-substring-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -1423,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3548-find-the-count-of-good-integers) |
+| [3713-longest-balanced-substring-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3827-count-monobit-integers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3827-count-monobit-integers) |
 ## Bitmask
