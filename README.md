@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0476-number-complement) |
 | [0638-shopping-offers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0638-shopping-offers) |
@@ -1153,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0948-sort-an-array) |
