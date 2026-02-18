@@ -17,8 +17,13 @@ class Solution {
   2*prev+1=next not alternative 
 
 
- 5-> 101  -> leftshieft 1 -> 010 should be xor should be all 1 =111
+ 5-> 101  -> right shieft 1 -> 010 should be xor should be all 1 =111
 now n=7 111
+
+so 7->111->110  n=111^011=100
+n&(n+1)=> 110&111=0?
+
+
 so 111 & 1000=0
   2->01->10 n=01^10=11
   ans=n&(n+1)=11&100=0 always 
