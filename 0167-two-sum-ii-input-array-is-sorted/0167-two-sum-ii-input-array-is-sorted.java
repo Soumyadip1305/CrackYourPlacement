@@ -1,12 +1,11 @@
 class Solution {
     public int[] twoSum(int[] num, int tar) {
         int l=0,r=num.length-1;
-        int sum=0;
         while(l<r){
-            sum=num[l]+num[r];
+            int sum=num[l]+num[r];
             /*if(nums[l]==nums[r]){
                 l++;
-            }
+            } no need
             */
             if(sum==tar){
                 return new int[]{l+1,r+1};
