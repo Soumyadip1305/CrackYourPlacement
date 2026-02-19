@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0677-map-sum-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0677-map-sum-pairs) |
+| [0696-count-binary-substrings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0696-count-binary-substrings) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
 | [0756-pyramid-transition-matrix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0768-partition-labels) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0868-push-dominoes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0868-push-dominoes) |
