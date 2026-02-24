@@ -15,35 +15,18 @@
  */
 class Solution {
     public int sumRootToLeaf(TreeNode root) {
-         List<String> list = new ArrayList<>();
-        helper(root, "", list);
-        int ans=0;
-        for (String s:list){
-            for (int i = 0; i < s.length(); i++) {
-                ans+=(s.charAt(i)-'0')*(1<<s.length()-i-1);
-            }
-        }
-//        System.out.println(list);
-//        System.out.println(ans);
-        return ans;
+         return helper(root, 0);
     }
 
-    static void helper(TreeNode root, String path, List<String> ans){
+    int helper(TreeNode root, int cur) {
+        if (root == null) return 0;
 
-        if(root == null) return;
+        cur = (cur << 1) | root.val;
 
-        if(path.isEmpty()){
-            path = String.valueOf(root.val);
-        }else{
-            path = path + root.val;
+        if (root.left == null && root.right == null) {
+            return cur;
         }
 
-        if(root.left == null && root.right == null){
-            ans.add(path);
-            return;
-        }
-
-        helper(root.left, path, ans);
-        helper(root.right, path, ans);
+        return helper(root.left, cur) + helper(root.right, cur);
     }
 }
