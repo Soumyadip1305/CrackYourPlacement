@@ -694,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1035-cousins-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1035-cousins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1275-validate-binary-tree-nodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1275-validate-binary-tree-nodes) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1035-cousins-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1035-cousins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1275-validate-binary-tree-nodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1275-validate-binary-tree-nodes) |
@@ -930,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1035-cousins-in-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1035-cousins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1275-validate-binary-tree-nodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1275-validate-binary-tree-nodes) |
