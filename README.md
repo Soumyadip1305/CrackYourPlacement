@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1192,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1140-distant-barcodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1396-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1510-find-lucky-integer-in-an-array) |
