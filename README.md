@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2413-smallest-number-in-infinite-set) |
 | [2448-count-number-of-bad-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2502-sort-the-people) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2479-meeting-rooms-iii) |
@@ -1119,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2799-count-complete-subarrays-in-an-array) |
