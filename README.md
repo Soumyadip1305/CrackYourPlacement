@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0611-valid-triangle-number) |
