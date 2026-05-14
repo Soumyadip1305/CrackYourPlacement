@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2778-frequency-tracker](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2778-frequency-tracker) |
+| [2784-check-if-array-is-good](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2915-count-of-interesting-subarrays) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2784-check-if-array-is-good](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2784-check-if-array-is-good](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/2799-count-complete-subarrays-in-an-array) |
