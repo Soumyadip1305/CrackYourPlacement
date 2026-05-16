@@ -1197,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0859-design-circular-deque](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0859-design-circular-deque) |
