@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0933-increasing-order-search-tree) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0611-valid-triangle-number) |
@@ -1194,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0859-design-circular-deque](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0859-design-circular-deque) |
@@ -1338,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0326-power-of-three) |
