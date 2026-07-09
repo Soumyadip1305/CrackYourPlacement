@@ -10,4 +10,3 @@ class Solution:
                 j-=1
             else:
                 i+=1
-        return list([-1,-1])
