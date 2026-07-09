@@ -9,9 +9,6 @@ class Solution:
 
             if nums[l]<nums[r]:
                 l+=1
-            elif nums[l]>nums[r]:
-                r-=1
             else:
                 r-=1
-                l+=1
         return maxi
