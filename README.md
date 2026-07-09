@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [0974-reorder-data-in-log-files](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0974-reorder-data-in-log-files) |
+| [0977-squares-of-a-sorted-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-distant-barcodes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1140-distant-barcodes) |
 | [1256-rank-transform-of-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-sort-an-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [0974-reorder-data-in-log-files](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0974-reorder-data-in-log-files) |
+| [0977-squares-of-a-sorted-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0977-squares-of-a-sorted-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1004-max-consecutive-ones-iii](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-swap-adjacent-in-lr-string](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0868-push-dominoes](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0868-push-dominoes) |
 | [0876-middle-of-the-linked-list](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/0977-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Soumyadip1305/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
