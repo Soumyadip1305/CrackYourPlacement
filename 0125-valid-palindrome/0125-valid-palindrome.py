@@ -3,7 +3,7 @@ class Solution:
         #t = "".join(char for char in s if char.isalnum()).lower()
         i=0
         j=len(s)-1
-        while j>i:
+        while i<j:
             # 1. Skip non-alphanumeric characters from the left
             while i < j and not s[i].isalnum():
                 i += 1
