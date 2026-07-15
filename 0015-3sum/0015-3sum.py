@@ -2,7 +2,8 @@ class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
         ans=[]
         nums.sort()
-        for i in range(0,len(nums)-2):
+        n = len(nums)
+        for i in range(0,n-2):
             # Optimization 1: Since the array is sorted, if the anchor is 
             # greater than 0, the sum of three numbers can never be 0.
             if nums[i] > 0:
@@ -11,7 +12,7 @@ class Solution:
             if i>0 and nums[i]==nums[i-1]:
                 continue
             l=i+1
-            r=len(nums)-1
+            r=n-1
             while(l<r):
                 curr_sum=nums[i]+nums[l]+nums[r]
                 if curr_sum==0:
