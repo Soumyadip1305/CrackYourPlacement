@@ -3,6 +3,10 @@ class Solution:
         ans=[]
         nums.sort()
         for i in range(0,len(nums)-2):
+            # Optimization 1: Since the array is sorted, if the anchor is 
+            # greater than 0, the sum of three numbers can never be 0.
+            if nums[i] > 0:
+                break
             #check for duplicate 
             if i>0 and nums[i]==nums[i-1]:
                 continue
@@ -21,4 +25,3 @@ class Solution:
                 else:
                     r-=1
         return ans
-    
